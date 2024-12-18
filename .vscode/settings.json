@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/index.html": true,
+        "application/cache/": true,
+        "application/core/": true,
+        "application/database/": true,
+        "application/hooks/": true,
+        "application/language/": true,
+        "application/logs/": true,
+        "application/libraries/": true,
+        "application/routes/": true,
+        "application/vendor": true,
+        "application/composer.lock": true,
+        "application/third_party": true,
+        "system/": true,
+    }
+}

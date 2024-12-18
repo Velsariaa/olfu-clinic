@@ -1,0 +1,20 @@
+{
+    "require": {
+        "illuminate/database": "8.83.5",
+        "smarty/smarty": "4.1.0",
+        "luthier/luthier": "1.0.5",
+        "spatie/html-element": "1.1.4",
+        "illuminate/pagination": "8.83.5",
+        "phpmailer/phpmailer": "6.6.0",
+        "setasign/fpdf": "1.8.4",
+        "ramsey/uuid": "^4.2"
+    },
+    "autoload": {
+        "classmap": [
+           "models/eloquent"
+        ]
+    },
+    "require-dev": {
+        "kint-php/kint": "4.2.3"
+    }
+}

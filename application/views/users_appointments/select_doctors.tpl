@@ -1,0 +1,1 @@
+{form_select enabled=true field='doctor_id|Doctor' options=$doctors|default:[] value=$row.doctor_id|default:'' required=false}

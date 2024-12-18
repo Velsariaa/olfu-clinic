@@ -1,0 +1,32 @@
+.navbar-dark {
+	background-color: #2d6c32;
+}
+.sidebar-dark {
+	background-color: #55ac4e;
+}
+.dataTable thead tr th {
+	white-space: nowrap;
+}
+
+.btn-link {
+    --btn-color: #059669;
+}
+
+.active>.page-link, .page-link.active {
+    background-color: #059669;
+	border-color: #059669;
+}
+
+.fc-h-event {
+    display: block;
+    border: #059669;
+    background-color: #059669;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #059669;
+}
+
+.nav-tabs-highlight, .nav-tabs-overline, .nav-tabs-underline {
+    --nav-tabs-underline-color: #059669;
+}

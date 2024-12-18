@@ -1,0 +1,1 @@
+{extends "`$smarty.current_dir`/profile_admin.tpl"}
